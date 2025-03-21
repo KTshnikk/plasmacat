@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u042E\u041D\u0418\u0422\u0418\\layout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA1AEEB-2B50-E120-4531-D47DBE9DC876}|Assembly-CSharp.csproj|d:\\\u044E\u043D\u0438\u0442\u0438\\layout\\assets\\level_transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA1AEEB-2B50-E120-4531-D47DBE9DC876}|Assembly-CSharp.csproj|solutionrelative:assets\\level_transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA1AEEB-2B50-E120-4531-D47DBE9DC876}|Assembly-CSharp.csproj|D:\\\u042E\u041D\u0418\u0422\u0418\\layout\\assets\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA1AEEB-2B50-E120-4531-D47DBE9DC876}|Assembly-CSharp.csproj|solutionrelative:assets\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA1AEEB-2B50-E120-4531-D47DBE9DC876}|Assembly-CSharp.csproj|D:\\\u042E\u041D\u0418\u0422\u0418\\layout\\assets\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA1AEEB-2B50-E120-4531-D47DBE9DC876}|Assembly-CSharp.csproj|solutionrelative:assets\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA1AEEB-2B50-E120-4531-D47DBE9DC876}|Assembly-CSharp.csproj|D:\\\u042E\u041D\u0418\u0422\u0418\\layout\\assets\\pressing_tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA1AEEB-2B50-E120-4531-D47DBE9DC876}|Assembly-CSharp.csproj|solutionrelative:assets\\pressing_tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA1AEEB-2B50-E120-4531-D47DBE9DC876}|Assembly-CSharp.csproj|D:\\\u042E\u041D\u0418\u0422\u0418\\layout\\assets\\jump_restriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA1AEEB-2B50-E120-4531-D47DBE9DC876}|Assembly-CSharp.csproj|solutionrelative:assets\\jump_restriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pressing_tracking.cs",
+              "DocumentMoniker": "D:\\\u042E\u041D\u0418\u0422\u0418\\layout\\Assets\\pressing_tracking.cs",
+              "RelativeDocumentMoniker": "Assets\\pressing_tracking.cs",
+              "ToolTip": "D:\\\u042E\u041D\u0418\u0422\u0418\\layout\\Assets\\pressing_tracking.cs",
+              "RelativeToolTip": "Assets\\pressing_tracking.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDUAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:42:21.569Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "level_transition.cs",
+              "DocumentMoniker": "D:\\\u042E\u041D\u0418\u0422\u0418\\layout\\Assets\\level_transition.cs",
+              "RelativeDocumentMoniker": "Assets\\level_transition.cs",
+              "ToolTip": "D:\\\u042E\u041D\u0418\u0422\u0418\\layout\\Assets\\level_transition.cs",
+              "RelativeToolTip": "Assets\\level_transition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:08:36.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "jump_restriction.cs",
+              "DocumentMoniker": "D:\\\u042E\u041D\u0418\u0422\u0418\\layout\\Assets\\jump_restriction.cs",
+              "RelativeDocumentMoniker": "Assets\\jump_restriction.cs",
+              "ToolTip": "D:\\\u042E\u041D\u0418\u0422\u0418\\layout\\Assets\\jump_restriction.cs",
+              "RelativeToolTip": "Assets\\jump_restriction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:04:10.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DROPDOWN.cs",
+              "DocumentMoniker": "D:\\\u042E\u041D\u0418\u0422\u0418\\layout\\Assets\\DROPDOWN.cs",
+              "RelativeDocumentMoniker": "Assets\\DROPDOWN.cs",
+              "ToolTip": "D:\\\u042E\u041D\u0418\u0422\u0418\\layout\\Assets\\DROPDOWN.cs",
+              "RelativeToolTip": "Assets\\DROPDOWN.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:52:36.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clock.cs",
+              "DocumentMoniker": "D:\\\u042E\u041D\u0418\u0422\u0418\\layout\\Assets\\clock.cs",
+              "RelativeDocumentMoniker": "Assets\\clock.cs",
+              "ToolTip": "D:\\\u042E\u041D\u0418\u0422\u0418\\layout\\Assets\\clock.cs",
+              "RelativeToolTip": "Assets\\clock.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T10:42:42.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

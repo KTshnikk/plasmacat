@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\assets\\scripts\\fip\\player_fip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fip\\player_fip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\assets\\prefabs\\forchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\forchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\assets\\prefabs\\sctsecatt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\sctsecatt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\assets\\scripts\\fip\\baseattacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fip\\baseattacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|c:\\users\\\u0434\u0438\u043C\u0430\\desktop\\pr0.5\\layout1\\assets\\scripts\\movecat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movecat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\assets\\scripts\\pressing_tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pressing_tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\assets\\prefabs\\scrbaseattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\scrbaseattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\assets\\scripts\\to menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\to menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\assets\\scripts\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\assets\\scripts\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\assets\\fucking_work_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE0AFD5-C2EC-33BF-11E9-BF7E90298AE9}|Assembly-CSharp.csproj|solutionrelative:assets\\fucking_work_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoveCat.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\scripts\\MoveCat.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MoveCat.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\scripts\\MoveCat.cs",
+              "RelativeToolTip": "Assets\\scripts\\MoveCat.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowHAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:53:08.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "baseattacks.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\scripts\\FIP\\baseattacks.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\FIP\\baseattacks.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\scripts\\FIP\\baseattacks.cs",
+              "RelativeToolTip": "Assets\\scripts\\FIP\\baseattacks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:26:38.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sctsecatt.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\prefabs\\sctsecatt.cs",
+              "RelativeDocumentMoniker": "Assets\\prefabs\\sctsecatt.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\prefabs\\sctsecatt.cs",
+              "RelativeToolTip": "Assets\\prefabs\\sctsecatt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:00:03.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "forchain.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\prefabs\\forchain.cs",
+              "RelativeDocumentMoniker": "Assets\\prefabs\\forchain.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\prefabs\\forchain.cs",
+              "RelativeToolTip": "Assets\\prefabs\\forchain.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:03:31.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player_FIP.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\scripts\\FIP\\Player_FIP.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\FIP\\Player_FIP.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\scripts\\FIP\\Player_FIP.cs",
+              "RelativeToolTip": "Assets\\scripts\\FIP\\Player_FIP.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAiwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:26:49.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "scrbaseattack.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\prefabs\\scrbaseattack.cs",
+              "RelativeDocumentMoniker": "Assets\\prefabs\\scrbaseattack.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\prefabs\\scrbaseattack.cs",
+              "RelativeToolTip": "Assets\\prefabs\\scrbaseattack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBoAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T10:08:09.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "player.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\scripts\\player.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\scripts\\player.cs",
+              "RelativeToolTip": "Assets\\scripts\\player.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwDMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:32:54.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "to menu.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\scripts\\to menu.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\to menu.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\scripts\\to menu.cs",
+              "RelativeToolTip": "Assets\\scripts\\to menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:10:30.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clock.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\scripts\\clock.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\clock.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\scripts\\clock.cs",
+              "RelativeToolTip": "Assets\\scripts\\clock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:39:08.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DROPDOWN.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\scripts\\DROPDOWN.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\DROPDOWN.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\scripts\\DROPDOWN.cs",
+              "RelativeToolTip": "Assets\\scripts\\DROPDOWN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:37:34.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FUCKING_WORK_MENU.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\FUCKING_WORK_MENU.cs",
+              "RelativeDocumentMoniker": "Assets\\FUCKING_WORK_MENU.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\FUCKING_WORK_MENU.cs",
+              "RelativeToolTip": "Assets\\FUCKING_WORK_MENU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:10:43.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pressing_tracking.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\scripts\\pressing_tracking.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\pressing_tracking.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\pr0.5\\layout1\\Assets\\scripts\\pressing_tracking.cs",
+              "RelativeToolTip": "Assets\\scripts\\pressing_tracking.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwCwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:14:52.267Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
