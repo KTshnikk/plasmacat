@@ -1,20 +1,38 @@
-# Unity временные файлы
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-Logs/
+# Ignore the following files and directories from Unity projects
+
+# User-specific files
 UserSettings/
 
-# Visual Studio
-.vs/
-.vscode/
-*.csproj
-*.sln
-*.suo
-*.user
-*.unitypackage
+# Build results
+Build/
+Builds/
 
-# Unity Package Manager
-Packages/Library/
+# Unity generated folders
+Library/
+Logs/
+Temp/
+
+# User-specific files (e.g., Visual Studio and Rider)
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Unity cache folder
+/.cache
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+
+# JetBrains Rider
+.idea/
+
+# Ignore Unity's package cache
+Library/PackageCache/
+
+# Ignore Unity-generated asset database
+Library/AssetDatabase/
