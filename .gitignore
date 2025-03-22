@@ -17,4 +17,4 @@ UserSettings/
 *.unitypackage
 
 # Unity Package Manager
-Packages/
+Packages/Library/
